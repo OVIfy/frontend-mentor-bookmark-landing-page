@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/OVIfy/frontend-mentor-bookmark-landing-page)
-- Live Site URL: [Add live site URL here](https://stunning-tartufo-38939c.netlify.app/)
+- Solution URL: [solution URL](https://github.com/OVIfy/frontend-mentor-bookmark-landing-page)
+- Live Site URL: [live site URL](https://stunning-tartufo-38939c.netlify.app/)
 
 ## My process
 
